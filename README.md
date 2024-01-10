@@ -23,13 +23,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" hieght="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" hieght="60"/>&nbsp;
 
-# My stat
+### My stat
+
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Uzabr=vn7n24fzkq&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Uzabr=vn7n24fzkq&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?
-Uzabr=vn7n24fzkq&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzabr&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uzabr&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uzabr&theme=github_dark" alt=""/>
 </div>
 
           
