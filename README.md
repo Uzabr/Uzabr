@@ -6,7 +6,7 @@
 
 
 <a href = "t.me/ascii_boy">
-    <img src=" https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"  alt="Telegram"/>
+    <img src=" https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue"  alt="Telegram"/>
 </a>
 
 ---
