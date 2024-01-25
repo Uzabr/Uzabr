@@ -2,6 +2,9 @@
           
 <div id="header" align="center">
     <h1>Hi there, I'm Abror</h1>
+    <div id="header" align="center">
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    </div>
     <h3>  Java software developer from Tashkent, Uzbekistan</h3>
 
 
