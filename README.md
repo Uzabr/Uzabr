@@ -25,6 +25,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" hieght="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" hieght="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" hieght="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" hieght="60"/>&nbsp;
+<img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" width="60" hieght="60"/>&nbsp;
+
 
 
 ### My stat
